@@ -4,6 +4,7 @@
 //1.2 3.4 float
  //var qwe ='hi hello sindh'
  //alert (qwe)
+ //alert ("Aslam Alikum")
 //document.write ('<h1>helloworld</h1>')
 ////document.write('<h1>'+'helloworld'+'</h1>')
 //var a ='alisoomro'
@@ -14,6 +15,9 @@
 //document.write(firstName +""+ lastName)
 //var num1 ='44'
 //document.write (num1)
+// var a='alisoormo'
+// var b="wasand soomro"
+// document.write(a+b)
 //var num1=10
 //var num2=20
 //document.write(num1+num2)
@@ -43,6 +47,6 @@
 // pe decide karega or operation perfom kardega
 // var a= prompt ('enter value 1')
 // document.write(a)
-var a=prompt("enter value 1")
-var b= prompt("enter value 2")
-document.write(a*b)
+// var a=prompt("enter value 1")
+// var b= prompt("enter value 2")
+// document.write(a*b)
